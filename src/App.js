@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default () => {
-    return(
+    return (
         <div>
             Olá Mundo!
         </div>

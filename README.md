@@ -1,3 +1,9 @@
+# Primeiro Projeto em ReactJS - Netflix Clone
+
+A ideia do projeto é desenvolver um clone da home da Netflix, seguindo o tutorial do professor Bonieky Lacerda
+
+Let´s code!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
